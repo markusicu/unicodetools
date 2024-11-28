@@ -1970,7 +1970,7 @@ public class UcdPropertyValues {
         Phoenician("Phnx"),
         Miao("Plrd"),
         Inscriptional_Parthian("Prti"),
-        Beria_Erfe("Qaba"),
+        Beria_Erfe("Berf"),
         Rejang("Rjng"),
         Hanifi_Rohingya("Rohg"),
         Runic("Runr"),
